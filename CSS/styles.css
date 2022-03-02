@@ -29,13 +29,21 @@ h1{
     font-weight: 700;
 }
 .card{
-    border: 8ch;
-    background-color: coral;
-    height: 40%;
-    width: 30%;
+    border: 50%;
+    background-color: rgb(140, 211, 74) !important; 
+    height: 100%;
+    width: 100%;
 }
 .footer{
     list-style: none;
     display: inline;
     
+}
+.box{
+    margin:7%;
+    padding: 4%;
+    border: 5ch;
+    width: 100%;
+    background-color: rgb(140, 250, 222);
+    border-radius: 7%;
 }
