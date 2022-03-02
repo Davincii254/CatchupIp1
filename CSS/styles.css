@@ -1,0 +1,41 @@
+img{
+    width: 30%;
+    position: relative;
+    left: 30%;
+    border-radius: 5%;
+}
+body{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav ul li{
+    list-style: none;
+   display: inline;
+   padding: 4%;
+   padding-inline-start: 10%;
+}
+.nav{
+    background-color: rgb(168, 161, 51);
+}
+.nav a{
+    color: aqua;
+}
+.nav a:hover{
+    color: blueviolet;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-weight: 700;
+}
+.card{
+    border: 8ch;
+    background-color: coral;
+    height: 40%;
+    width: 30%;
+}
+.footer{
+    list-style: none;
+    display: inline;
+    
+}
